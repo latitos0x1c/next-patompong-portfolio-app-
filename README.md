@@ -13,3 +13,16 @@
 <kbd><img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/cf6f5f5b-8674-4732-a6f7-80dffc2bf661" /></kbd>
 
 Build with NextJS 16 & TailwindCSS with NodeJS runtime
+
+
+```bash
+npm run dev
+```
+or
+```bash
+bun run dev
+```
+or
+```bash
+pnpm run dev
+```
